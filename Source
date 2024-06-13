@@ -977,7 +977,7 @@ function CFAHub:CreateWindow(title, gameName, intro)
                 IconEnable.Position = UDim2.new(0.949999988, 0, 0.5, 0)
                 IconEnable.Size = UDim2.new(0, 23, 0, 23)
                 IconEnable.ZIndex = 2
-                IconEnable.Image = "rbxassetid://3926309567"
+                IconEnable.Image = "rbxassetid://17844973795"
                 IconEnable.ImageTransparency = 1
                 IconEnable.ImageColor3 = themes.TextColor
                 Objects[IconEnable] = "TextColor"
@@ -1113,7 +1113,7 @@ function CFAHub:CreateWindow(title, gameName, intro)
                 ArrowIcon.Position = UDim2.new(0.949999988, 0, 0.5, 0)
                 ArrowIcon.Size = UDim2.new(0, 23, 0, 23)
                 ArrowIcon.ZIndex = 2
-                ArrowIcon.Image = "rbxassetid://7072706663"
+                ArrowIcon.Image = "rbxassetid://17844973795"
                 ArrowIcon.ImageColor3 = themes.TextColor
                 Objects[ArrowIcon] = "TextColor"
                 
@@ -1891,7 +1891,7 @@ function CFAHub:CreateWindow(title, gameName, intro)
                 ColorFrame.Position = UDim2.new(0.023, 0, 0.0559999868, 0)
                 ColorFrame.Size = UDim2.new(0, 227, 0, 119)
                 ColorFrame.ZIndex = 2
-                ColorFrame.Image = "rbxassetid://4155801252"
+                ColorFrame.Image = "rbxassetid://17844973795"
                 
                 ColorCorner.CornerRadius = UDim.new(0, 4)
                 ColorCorner.Name = "ColorCorner"
